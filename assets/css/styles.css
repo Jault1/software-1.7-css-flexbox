@@ -265,7 +265,7 @@ text-align: center;
     }
 
     #flexbox-container > div {
-        flex : 1 0 360px;
+        flex : 1 0 280px;
         padding: 20px;
         margin: 20px;
         background-color: #fed9b7;
