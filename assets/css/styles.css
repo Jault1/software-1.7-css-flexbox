@@ -32,6 +32,10 @@ header, #aboutme, #gallery>h2, #gallery>p, #contactme {
     padding-bottom: 20px;
 }
 
+.aboutme-p {
+    padding-bottom: 20px;
+}
+
 #navbar {
     overflow: hidden;
     background-color: #333;
@@ -313,7 +317,7 @@ footer {
 /* For desktop: */
 @media only screen and (min-width: 768px) {
     h1 {
-        background-color: #fdfcdcfs;
+        background-color: bisque;
     }
 }
 
