@@ -1,0 +1,26 @@
+/* css styles */
+
+h1 {
+    color: #f07167;
+}
+
+/*
+#f07167 coral
+#fed9b7 tan
+#fdfcdc creme
+#00afb9 aqua
+#0081a7 blue
+*/
+
+#flexbox-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#flexbox-container > div {
+flex : 1 0 430px;
+padding: 20px;
+background-color: #fdfcdc;
+border: 1px solid 00afb9;
+}
+
